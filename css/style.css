@@ -1,0 +1,52 @@
+#anketa {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .respondent {
+    width: 143px; 
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .portret {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    border-radius: 50%;
+  }
+  
+  .bio {
+    text-align: center;
+    background-color: #F5F5F5;
+    margin-bottom: 3px;
+    font-size: 85%;
+  }
+  
+  .jmeno {
+    font-weight: bold;
+  }
+  
+  .odpoved {
+    font-size: 80%;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 1px;
+  }
+  
+  .cervene {
+    background-color: #fc8d59;
+  }
+  
+  .zelene {
+    background-color: #91cf60;
+  }
+  
+  #lineup {
+    height: 600px;
+  }
+  

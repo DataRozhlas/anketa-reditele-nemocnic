@@ -24,7 +24,7 @@ function onLoad(e) {
     <div id="anketa">
       {data.map(el => (
         <div className="respondent">
-          <img className="portret" src={host + "/foto/orez" + el.f} alt={el.p} />
+          <img className="portret" src={host + "/foto/orez/" + el.f} alt={el.p} />
           <div className="bio">
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="vek">{el.n}</div>
