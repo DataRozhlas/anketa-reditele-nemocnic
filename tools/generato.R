@@ -4,11 +4,12 @@ library(magick)
 library(dplyr)
 library(stringr)
 
-data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSdS2s4DV_wy9zcK5pA8Oz83NzwT5Xdhw_UxceP2quT-tIkXbK5fOn4g030lNNDonjhDW0E3pigElEn/pub?gid=0&single=true&output=csv")
+data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTbB4taQsHJnOEHGBPmUlumPnVzeHTZ3F6c4mrTyHDN54Uqkvbx-e9EF1t_7Yth39YjxARXaq7fWYw2/pub?gid=0&single=true&output=csv")
 
 # stáhni fotky
 
-for(i in data$f) {
+for(i in data$Foto) {
+  if(is.na(i)) {return()}
   obr <- image_read(i)
   filename <- sub(pattern = "(.*)\\..*$", replacement = "\\1", basename(i))
   image_write(obr, paste0("../foto/orig/", filename, ".jpg"), format = "jpeg")
