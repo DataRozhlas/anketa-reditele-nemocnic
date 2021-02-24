@@ -8,30 +8,42 @@ data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTbB4taQsHJnOE
 
 # stáhni fotky
 
-for(i in data$Foto) {
-  if(is.na(i)) {return()}
-  obr <- image_read(i)
-  filename <- sub(pattern = "(.*)\\..*$", replacement = "\\1", basename(i))
-  image_write(obr, paste0("../foto/orig/", filename, ".jpg"), format = "jpeg")
+
+for (i in data$f) {
+  print(i)
+  if (!is.na(i)) {
+    obr <- image_read(i)
+    filename <-
+      sub(pattern = "(.*)\\..*$", replacement = "\\1", basename(i))
+    image_write(obr, paste0("../foto/", filename, ".jpg"), format = "jpeg")
+  } 
 }
   
+# autocrop
+# autocrop -o orez -r reject -w 150 -H 150
+
 # ořízni fotky
 
-for(i in data$f) {
-  obr <- image_read(i)
-  obr <- image_strip(obr)
-  obr <- image_crop(obr, "201x201")
-  obr <- image_resize(obr, "120")
-  image_write(obr, paste0("../foto/", basename(i)), "jpg")
-}
+# for(i in data$f) {
+#   obr <- image_read(i)
+#   obr <- image_strip(obr)
+#   obr <- image_crop(obr, "201x201")
+#   obr <- image_resize(obr, "120")
+#   image_write(obr, paste0("../foto/", basename(i)), "jpg")
+# }
+
+# dej správný názvy fotkám, když chybí, face.jpg
+
+data$f[is.na(data$f)] <- "face.jpg"
+
+data$f <- basename(data$f)
 
 # udělej JSON
 
 Sys.getlocale(category = "LC_ALL")
 Sys.setlocale(category = "LC_ALL", locale = "cs_CZ.UTF-8")
 
-data <- data %>% select(1:6)
-data$f <- paste0("../foto/orez/", sub(pattern = "(.*)\\..*$", replacement = "\\1", basename(data$f)), ".jpg")
-data <- data %>% arrange(p)
+data <- data %>% select(1:8)
+data <- data %>% arrange(k, p)
 
 write_json(data, path="../data/data.json", na="null")
