@@ -36,7 +36,7 @@ for (i in data$f) {
 
 data$f[is.na(data$f)] <- "face.jpg"
 
-data$f <- basename(data$f)
+data$f <- str_replace(basename(data$f), "png", "jpg")
 
 # udělej JSON
 

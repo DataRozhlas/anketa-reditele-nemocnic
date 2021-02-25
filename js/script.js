@@ -1,4 +1,5 @@
-﻿import "./byeie"; // loučíme se s IE
+﻿import "preact/debug";
+import "./byeie"; // loučíme se s IE
 import { h, render } from "preact";
 /** @jsx h */
 
