@@ -1,5 +1,5 @@
 title: "Velká anketa mezi řediteli nemocnic. Vláda zaspala, meleme z posledního, hroutí se nám životy, pomozte, vzkazují"
-perex: "Dodržujte čtyři R – rozum, roušky/respirátory, ruce a rozestupy - vyzývá více než pět desítek ředitelů nemocnic, jejichž pohled přináší Český rozhlas ve velké anketě. Situace napříč republikou podle nich není dobrá a zvládnout ji lze jedině společnými silami. Co je nejvíc trápí? Snížený přísun peněz a akutní nedostatek zdravotníků. „Personál doslova ‚mele z posledního‘ a ‚padá na hubu‘ fyzicky a psychicky,“ zoufá si Štěpán Votoček, ředitel silně zasažené nemocnice ve Slaném."
+perex: "Dodržujte čtyři R – rozum, roušky/respirátory, ruce a rozestupy – vyzývá více než pět desítek ředitelů nemocnic, jejichž pohled přináší Český rozhlas ve velké anketě. Situace napříč republikou podle nich není dobrá a zvládnout ji lze jedině společnými silami. Co je nejvíc trápí? Snížený přísun peněz a akutní nedostatek zdravotníků. „Personál doslova ‚mele z posledního‘ a ‚padá na hubu‘ fyzicky a psychicky,“ zoufá si Štěpán Votoček, ředitel silně zasažené nemocnice ve Slaném."
 styles: []
 libraries: []
 options: [noheader, nopic] #wide, noheader (, nopic)
@@ -8,7 +8,7 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 Zásadní je podle nich dodržování opatření i osobní odpovědnost. „Chovejte se tak, jako byste covid-19 měli a nechtěli nakazit nikoho druhého a zároveň jako by člověk, s kterým mluvíte, měl covid-19 a vy jste se nechtěli nakazit od něj,“ vyzývá šéf českobudějovické nemocnice Michal Šnorek.
 
-Co je cestou z koronavirové krize? Podle vedoucích nemocnic očkování. „Nechte se očkovat proti covidu, protože očkování je jedinou cestou, jak se ho zbavit, nebo alespoň co nejdříve zmírnit jeho dopady, o čemž svědčí současná situace v domovech seniorů, kde jsou již lidé naočkováni a nemocnost tam výrazně poklesla,“ dává příklad Vladimíra Danihelková z Nemocnice Blansko.  
+Co je cestou z koronavirové krize? Podle vedoucích nemocnic očkování. „Nechte se očkovat proti covidu, protože očkování je jedinou cestou, jak se ho zbavit nebo alespoň co nejdříve zmírnit jeho dopady, o čemž svědčí současná situace v domovech seniorů, kde jsou již lidé naočkováni a nemocnost tam výrazně poklesla,“ dává příklad Vladimíra Danihelková z Nemocnice Blansko.  
 
 ## Úhradovou vyhlášku chystáme, tvrdí ministerstvo
 
@@ -18,7 +18,7 @@ A šéfové zdravotnických zařízení se shodují, že je to problém. „Sou�
 
 Problém přibližuje Miroslav Procházka, předseda správní rady nemocnice Trutnov. „Vyhláška vznikala v době, kdy se očekával postupný útlum pandemie. Příplatky za covidové pacienty na ‚standardních‘ lůžkách jsou od 1. ledna nula korun, a to i přes prokazatelně vyšší náklady spojené s léčbou.“
 
-Mluvčí ministerstva zdravotnictví Barbora Peterová ještě na začátku týdne [pro Radiožurnál tvrdila](https://www.irozhlas.cz/zpravy-domov/zdravotnici-nemocnice-personal-odmeny-plat-koronavirus-vycerpani_2102220702_aur), že změna vyhlášky není v plánu. „Změna úhradové vyhlášky ze strany ministerstva zdravotnictví možná není, zákon o kompenzacích by musel přijmout parlament,“ sdělila.
+Mluvčí ministerstva zdravotnictví Barbora Peterová ještě na začátku týdne [pro Radiožurnál tvrdila](https://www.irozhlas.cz/zpravy-domov/zdravotnici-nemocnice-personal-odmeny-plat-koronavirus-vycerpani_2102220702_aur), že změna vyhlášky není v plánu. „Změna úhradové vyhlášky ze strany ministerstva zdravotnictví možná není, zákon o kompenzacích by musel přijmout Parlament,“ sdělila.
 
 Teď ovšem podle ní ministerstvo změnu připravuje. „Resort připravuje zákon o kompenzacích pro rok 2021, který by měl dát ministerstvu možnost vydat kompenzační vyhlášku pro rok 2021, stejně jako tomu bylo v roce 2020. Úhradová vyhláška pro rok 2021 počítá s bonifikací na intenzivní lůžko u hospitalizovaného pacienta s koronavirem,“ uvedla pro iROZHLAS.cz.
 
@@ -28,13 +28,13 @@ Právě na časté změny ze dne na den a špatnou komunikaci od ministerstva zd
 
 „Vláda nezvládla získat podporu obyvatel pro restriktivní opatření, která selhávají. Vláda o několik měsíců zaspala s přípravou očkování a nyní nezvládá logistiku, vše zajišťují kraje a nemocnice. Vláda nedodává ani očkovací materiál, pouze vakcíny,“ vyjmenovává Štěpán Votoček, ředitel nemocnice ve Slaném. Ta na twitteru ve čtvrtek dopoledne sdílela výzvu, že naléhavě shání dobrovolníky na lůžková oddělení.
 
-A pokračuje v popisu situace: „Personál doslova ‚mele z posledního‘ a ‚padá na hubu‘ fyzicky a psychicky. Když se sestra či lékař z covidového oddělení dostane domů, jenom spí. Jednotlivci již ‚odpadají‘. Zkrátka už nezvládnou další den vstát a jít do práce mezi dusící se a umírající pacienty. Řada zdravotníků začala užívat antidepresiva, rozpadají se jim partnerské vztahy, nemají čas věnovat se dětem,” vyjádřil se v anketě.
+A pokračuje v popisu situace: „Personál doslova ‚mele z posledního‘ a ‚padá na hubu‘ fyzicky a psychicky. Když se sestra či lékař z covidového oddělení dostane domů, jenom spí. Jednotlivci již ‚odpadají‘. Zkrátka už nezvládnou další den vstát a jít do práce mezi dusící se a umírající pacienty. Řada zdravotníků začala užívat antidepresiva, rozpadají se jim partnerské vztahy, nemají čas věnovat se dětem,“ vyjádřil se v anketě.
 
-Server iROZHLAS.cz položil ředitelkám a ředitelům nemocnic tři otázky:
+Český rozhlas položil ředitelkám a ředitelům nemocnic tři otázky:
 
-1. Jak byste apelovali na spoluobčany, aby se nedostali v souvislosti s covid-19 do péče vašich zdravotníků?
+1. Jak byste apelovali na spoluobčany, aby se nedostali v souvislosti s covidem-19 do péče vašich zdravotníků?
  
-2. Máte od vlády veškerou potřebnou podporu (materiál, informace, finance,…)? Pokud ne, co konkrétně vázne?
+2. Máte od vlády veškerou potřebnou podporu (materiál, informace, finance…)? Pokud ne, co konkrétně vázne?
  
 3. Pomůže vám, pokud budou pacienti s lehčím průběhem nemoci umisťováni v provizorních nemocnicích – jako tělocvičny nebo sály kulturních domů? Nebo má tento plán nějaká úskalí?
 
@@ -44,7 +44,7 @@ Server iROZHLAS.cz položil ředitelkám a ředitelům nemocnic tři otázky:
 
 ## Chybí personál
 
-Ministr zdravotnictví Jan Blatný (za ANO) minulý týden v pátek na tiskové konferenci prohlásil, že by lidé ve chvíli vyčerpání kapacit mohli být umísťování i do zařízení, která k tomu neslouží. „Dá se to říct i parafrázovat třeba tím, že by to mohly být i ty tělocvičny,” [podotkl](https://www.irozhlas.cz/zpravy-domov/jan-blatny-partie-prima-ivan-bartos-koronavirus-nemocnice_2102211247_dok). O dva dny později v pořadu Partie uvedl, že výrok byl vytržený z kontextu.
+Ministr zdravotnictví Jan Blatný (za ANO) minulý týden v pátek na tiskové konferenci prohlásil, že by lidé ve chvíli vyčerpání kapacit mohli být umístěni do zařízení, která k tomu neslouží. „Dá se to říct i parafrázovat třeba tím, že by to mohly být i ty tělocvičny,“ [podotkl](https://www.irozhlas.cz/zpravy-domov/jan-blatny-partie-prima-ivan-bartos-koronavirus-nemocnice_2102211247_dok). O dva dny později v pořadu Partie uvedl, že výrok byl vytržený z kontextu.
 
 Šéfové nemocnic se ovšem shodují, že taková varianta rozhodně není v možnostech českého zdravotnictví. „Nemocnice mají dostatečné kapacity, pacienti s lehkým průběhem mají být léčeni doma,“ míní Ladislav Václavec z krnovského zdravotnického zařízení.
 
@@ -58,6 +58,6 @@ Také Martin Stračák z Vojenské nemocnice Brno nabízí řešení. „Spíše
 
 „Nepřišel požadavek na to, abychom partnery v Evropě žádali o poskytnutí personálu. Kdyby k tomu došlo, jsme připraveni vstoupit do jednání,“ řekl šéf Černínského paláce na dotaz serveru iROZHLAS.cz.
 
-Podle ministerstva zdravotnictví je nicméně termín „tělocvična“ spíše pro ilustraci toho, jak vážný problém je nedostatek kapacity. „Ve chvíli, kdy budou vyčerpány kapacity nemocnic v tom smyslu, že tam budou ležet jenom pacienti na jednotkách intenzivní péče s covidem nebo něčím jiným, potom další pacienti, kteří nějakou zdravotní péči rovněž potřebují, bude nutné umístit jinam,“ uvedla pro iROZHLAS.cz mluvčí Barbora Peterová.
+Podle ministerstva zdravotnictví je nicméně termín „tělocvična“ spíše pro ilustraci toho, jak vážný problém je nedostatek kapacity. „Ve chvíli, kdy budou vyčerpány kapacity nemocnic v tom smyslu, že tam budou ležet jenom pacienti na jednotkách intenzivní péče s covidem nebo něčím jiným, potom další pacienty, kteří nějakou zdravotní péči rovněž potřebují, bude nutné umístit jinam,“ uvedla pro iROZHLAS.cz mluvčí Barbora Peterová.
 
-„Jednou z možností, o které se nyní jedná, je umisťování těchto pacientů do lázeňských zařízení. Jednalo by se samozřejmě o pacienty, kteří nepotřebují intenzivní péči,“ dodala mluvčí ministerstva.
+„Jednou z možností, o které se nyní jedná, je umístění těchto pacientů do lázeňských zařízení. Jednalo by se samozřejmě o pacienty, kteří nepotřebují intenzivní péči,“ dodala mluvčí ministerstva.
