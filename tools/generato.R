@@ -3,6 +3,7 @@ library(readr)
 library(magick)
 library(dplyr)
 library(stringr)
+library(RCurl)
 
 data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTbB4taQsHJnOEHGBPmUlumPnVzeHTZ3F6c4mrTyHDN54Uqkvbx-e9EF1t_7Yth39YjxARXaq7fWYw2/pub?gid=0&single=true&output=csv")
 
@@ -11,7 +12,7 @@ data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTbB4taQsHJnOE
 
 for (i in data$f) {
   print(i)
-  if (!is.na(i)) {
+  if (url.exists(i)) {
     obr <- image_read(i)
     filename <-
       sub(pattern = "(.*)\\..*$", replacement = "\\1", basename(i))
@@ -34,9 +35,12 @@ for (i in data$f) {
 
 # dej správný názvy fotkám, když chybí, face.jpg
 
-data$f[is.na(data$f)] <- "face.jpg"
+data$f[!url.exists(data$f)] <- "face.jpg"
 
 data$f <- str_replace(basename(data$f), "png", "jpg")
+data$f <- str_replace(data$f, "JPG", "jpg")
+data$f[data$p=="Němeček"] <- "imager.jpg"
+data$f[data$p=="Marek"] <- "marek.jpg"
 
 # udělej JSON
 
